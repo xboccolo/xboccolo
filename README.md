@@ -1,4 +1,4 @@
-# Hi there, I'm Edoardo Boccolo 👋
+# Hi there, I'm Edoardo 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoardo-boccolo-183590221/)
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
@@ -8,7 +8,7 @@
 
 ## ⚡ About Me
 
-I am a **Broadcast Technician/Engineer & Aspiring Software Developer** based in Germany. I have a diverse background  in **Mathematics, Computer Science** and **Multimedia Production**, which allows me to bridge the gap between technical skills and a creative mindset. I'm currently deepening my knowledge in JavaScript (especially with React) aI love queer movies and hyperpop music. 
+I am a **Broadcast Technician/Engineer & Aspiring Web Developer** born in Rome, Italy and currently based in Hamburg, Germany. I have a diverse background  in **Mathematics, Computer Science** and **Multimedia Production**, which allows me to bridge the gap between technical skills and a creative mindset. I'm currently deepening my knowledge in JavaScript (especially with React). 
 
 - 🎓 **Education:** B.Sc. in Media and Technology | M.A. in Film and Visual Arts
 - 🔭 **Currently Building:** AdTech Data Pipelines & Full-Stack Web Applications
