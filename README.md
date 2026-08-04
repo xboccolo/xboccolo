@@ -8,7 +8,7 @@
 
 ## ⚡ About Me
 
-I am a **Broadcast Technician/Engineer & Aspiring Web Developer** born in Rome, Italy and currently based in Hamburg, Germany. I have a diverse background  in **Mathematics, Computer Science** and **Multimedia Production**, which allows me to bridge the gap between technical skills and a creative mindset. I'm currently deepening my knowledge in JavaScript (especially with React). 
+I am a **Broadcast Technician/Engineer & Aspiring Web Developer** born in Rome, Italy and currently based in Hamburg, Germany. I have a diverse background  in **Mathematics, Computer Science** and **Multimedia Production**, which allows me to bridge the gap between technical skills and a creative mindset. I'm currently deepening my knowledge in JavaScript (especially with React) and SQL. 
 
 - 🎓 **Education:** B.Sc. in Media and Technology | M.A. in Film and Visual Arts
 - 🔭 **Currently Building:** AdTech Data Pipelines & Full-Stack Web Applications
