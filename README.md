@@ -67,10 +67,3 @@ I am a **Broadcast Technician/Engineer & Aspiring Web Developer** born in Rome, 
 * **Cinema:** My ideal day off is watching 3 movies back-to-back. Araki, Lynch, and Argento are my favorites.
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xboccolo&show_icons=true&theme=radial&hide_border=true" alt="Edoardo's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=xboccolo&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
