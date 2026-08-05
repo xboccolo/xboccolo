@@ -8,11 +8,10 @@
 
 ## ⚡ About Me
 
-I am a **Broadcast Technician/Engineer & Aspiring Web Developer** born in Rome, Italy and currently based in Hamburg, Germany. I have a diverse background  in **Mathematics, Computer Science** and **Multimedia Production**, which allows me to bridge the gap between technical skills and a creative mindset. I'm currently deepening my knowledge in JavaScript (especially with React) and SQL. 
+I am a **Broadcast Technician/Engineer & Aspiring Web Developer** born in Rome, Italy and currently based in Hamburg, Germany. I have a diverse background  in **Mathematics, Computer Science** and **Multimedia Production**, which allows me to bridge the gap between technical skills and a creative mindset. I'm currently experimenting with React, Django and SQL.
 
 - 🎓 **Education:** B.Sc. in Media and Technology | M.A. in Film and Visual Arts
 - 🔭 **Currently Building:** AdTech Data Pipelines (Python, SQL) & Full-Stack Web Applications (JavaScript, React + Axios, Node.js, Express.js, PostgreSQL, JWT, Figma, Bootstrap)
-- 🎯 **Current Focus:** SQL Analytics, Data Engineering with Python, and React ecosystem
 - 🗣️ **Languages:**
   - 🇮🇹 **Italian** (Native)
   - 🇬🇧 **English** (Fluent / C1-C2)
