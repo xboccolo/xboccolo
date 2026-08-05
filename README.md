@@ -1,7 +1,6 @@
 # Hi there, I'm Edoardo 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoardo-boccolo-183590221/)
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edoboccolo@gmail.com)
 
 ---
