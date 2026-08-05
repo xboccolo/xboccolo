@@ -11,8 +11,8 @@
 I am a **Broadcast Technician/Engineer & Aspiring Web Developer** born in Rome, Italy and currently based in Hamburg, Germany. I have a diverse background  in **Mathematics, Computer Science** and **Multimedia Production**, which allows me to bridge the gap between technical skills and a creative mindset. I'm currently deepening my knowledge in JavaScript (especially with React) and SQL. 
 
 - 🎓 **Education:** B.Sc. in Media and Technology | M.A. in Film and Visual Arts
-- 🔭 **Currently Building:** AdTech Data Pipelines & Full-Stack Web Applications
-- 🎯 **Current Focus:** Advanced SQL Analytics, Data Engineering with Python, and React ecosystem
+- 🔭 **Currently Building:** AdTech Data Pipelines (Python, SQL) & Full-Stack Web Applications (React + Axios, Node.js, Express.js, PostgreSQL, JWT, Figma, Bootstrap)
+- 🎯 **Current Focus:** SQL Analytics, Data Engineering with Python, and React ecosystem
 - 🗣️ **Languages:**
   - 🇮🇹 **Italian** (Native)
   - 🇬🇧 **English** (Fluent / C1-C2)
@@ -48,22 +48,22 @@ I am a **Broadcast Technician/Engineer & Aspiring Web Developer** born in Rome, 
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| 📊 **[AdTech Analytics Pipeline](https://github.com/xboccolo/adtech-analytics)** | `Python` `PostgreSQL` `Pandas` | Relational database & automated ETL pipeline tracking programmatic ad metrics (CTR, CVR, eCPM). |
-| 🎬 **[Double Feature](#)** *(In Progress)* | `React` `Node.js` `Express` | Full-stack web application connecting cinema and music albums into curated double-feature experiences. |
+| 📊 **[AdTech Analytics Pipeline](https://github.com/xboccolo/adtech-analytics)** *(In progress)* | `Python` `PostgreSQL` `Pandas` | Relational database & automated ETL pipeline tracking programmatic ad metrics (CTR, CVR, eCPM). |
+| 🎬 **[Double Feature](#)** *(Early-stages)* | `React` `Node.js` `Express` | This is a love-project: a Full-stack web application that allows you to connect with other music and film enthusiasts. The idea is to match a music album and a movie (hence the name double-feature) that in your mind share a particular connection. Your profile is the result of your favorite music and film connections and it presents itself as a dynamic moodboard of your taste. The idea is to create a community where users can connect and discover new art through shared interests.
 
 ---
 
 ## 📚 Currently Learning
 
-* **Backend Architecture:** Deepening Python capabilities with **Django** for robust, batteries-included web frameworks.
-* **Infrastructure & Automation:** Containerizing environments with **Docker** and setting up automated testing/deployment pipelines using **CI/CD** workflows.
-* **UI/UX Design:** Wireframing user flows and interface layouts using **Figma** before writing code.
+* **Backend Architecture:** Deepening Python capabilities with **Django**.
+* **Infrastructure & Automation:** Containerization with **Docker** and setting up automated testing/deployment pipelines using **CI/CD** workflows.
+* **UI/UX Design:** Wireframing user flows and interface layouts using **Figma**.
 
 ---
 
 ## Hobbies & Interests
 
-* **Hyperpop & Music:** Sometimes I like to produce music, even after all these years I still feel constantly inspired by PC Music.
-* **Cinema:** My ideal day off is watching 3 movies back-to-back. Araki, Lynch, and Argento are my favorites.
+* **Hyperpop & Music:** Whenever I have a creative strike I like to get on my laptop and produce music on Logic. PC Music is my biggest inspiration.
+* **Cinema:** Cinema enthusiast. My ideal day off is watching 3 movies back-to-back. Araki, Lynch, and Argento are my favorites.
 
 ---
