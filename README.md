@@ -11,7 +11,7 @@
 I am a **Broadcast Technician/Engineer & Aspiring Web Developer** born in Rome, Italy and currently based in Hamburg, Germany. I have a diverse background  in **Mathematics, Computer Science** and **Multimedia Production**, which allows me to bridge the gap between technical skills and a creative mindset. I'm currently deepening my knowledge in JavaScript (especially with React) and SQL. 
 
 - 🎓 **Education:** B.Sc. in Media and Technology | M.A. in Film and Visual Arts
-- 🔭 **Currently Building:** AdTech Data Pipelines (Python, SQL) & Full-Stack Web Applications (React + Axios, Node.js, Express.js, PostgreSQL, JWT, Figma, Bootstrap)
+- 🔭 **Currently Building:** AdTech Data Pipelines (Python, SQL) & Full-Stack Web Applications (JavaScript, React + Axios, Node.js, Express.js, PostgreSQL, JWT, Figma, Bootstrap)
 - 🎯 **Current Focus:** SQL Analytics, Data Engineering with Python, and React ecosystem
 - 🗣️ **Languages:**
   - 🇮🇹 **Italian** (Native)
@@ -49,7 +49,7 @@ I am a **Broadcast Technician/Engineer & Aspiring Web Developer** born in Rome, 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | 📊 **[AdTech Analytics Pipeline](https://github.com/xboccolo/adtech-analytics)** *(In progress)* | `Python` `PostgreSQL` `Pandas` | Relational database & automated ETL pipeline tracking programmatic ad metrics (CTR, CVR, eCPM). |
-| 🎬 **[Double Feature](#)** *(Early-stages)* | `React` `Node.js` `Express` | This is a love-project: a Full-stack web application that allows you to connect with other music and film enthusiasts. The idea is to match a music album and a movie (hence the name double-feature) that in your mind share a particular connection. Your profile is the result of your favorite music and film connections and it presents itself as a dynamic moodboard of your taste. The idea is to create a community where users can connect and discover new art through shared interests.
+| 🎬 **[Double Feature](#)** *(Early-stages)* | `JavaScript` `React` `Node.js` `Express` `PostgreSQL``Figma` `Bootstrap`| This is a love-project: a Full-Stack Web Application that allows you to connect with other music and film enthusiasts. The basic idea is to match a Music Album and a Movie (*hence the name* **Double-feature**) that in your mind share a particular connection. Your profile is the result of your favorite music and film connections and it presents itself as a dynamic moodboard of your taste. The goal is to create a strong community where users can connect and discover new art through shared tastes.
 
 ---
 
