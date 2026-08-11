@@ -46,7 +46,7 @@ I am a **Broadcast Technician/Engineer & Web Developer** born in Rome, Italy and
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| 📊 **[AdTech Analytics Pipeline](https://github.com/xboccolo/adtech-analytics)** *(In progress)* | `Python` `PostgreSQL` `Pandas` | Relational database & automated ETL pipeline tracking programmatic ad metrics (CTR, CVR, eCPM). |
+| 📊 **[AdTech Analytics Pipeline](https://github.com/xboccolo/adtech-analytics)** *(In progress)* | `Python` `PostgreSQL` `Pandas` | Relational database & ETL pipeline tracking programmatic ad metrics (CTR, CVR, eCPM). |
 | 🎬 **[Double Feature](#)** *(Early-stages)* | `JavaScript` `React` `Node.js` `Express` `PostgreSQL` `Figma` `Bootstrap`| This is a love-project: a Full-Stack Web Application that allows you to connect with other music and film enthusiasts. The basic idea is to match a Music Album and a Movie (*hence the name* **Double-feature**) that in your mind share a particular connection. Your profile is the result of your favorite music and film connections and it presents itself as a dynamic moodboard of your taste. The goal is to create a strong community where users can connect and discover new art through shared tastes.
 
 ---
