@@ -22,8 +22,8 @@ using Python, SQL, PostgreSQL, Tableau, JavaScript, React, and Node.js.
 -   📊 **Recent Project:** Completed an end-to-end **AdTech Analytics**
     project covering synthetic data generation, Python ETL, PostgreSQL
     data modeling, SQL analysis, and an interactive Tableau dashboard.
--   💻 **Currently Building:** Full-stack web applications with
-    JavaScript, React, Node.js, Express.js, and PostgreSQL.
+-   💻 **Currently Building:** A full-stack web application called **Double-Feature** with
+    JavaScript, React, Node.js, Express.js, and PostgreSQL. 
 -   🗣️ **Languages:**
     -   🇮🇹 **Italian** (Native)
     -   🇬🇧 **English** (Fluent / C1-C2)
@@ -88,16 +88,17 @@ The project demonstrates the complete workflow:
 
 **Synthetic Data → ETL → PostgreSQL → SQL Analysis → Tableau Dashboard**
 
-### 🎬 **Double Feature** *(Early stages)*
+### 🎬 **Double-Feature** *(Early stages)*
 
 **`JavaScript` `React` `Node.js` `Express` `PostgreSQL` `Figma`
 `Bootstrap`**
 
-A full-stack passion project connecting music and cinema. Users pair a
-music album with a movie that they feel share an aesthetic, emotional,
-or thematic connection. Each profile becomes a dynamic moodboard built
-from those pairings, with the broader goal of creating a community for
-discovering art through shared taste.
+A passion project connecting music and cinema. Users can pair a
+music album with a movie – hence the name of the web app – that 
+share an aesthetic, emotional, or thematic but mostly a personal connection. 
+Each profile becomes a dynamic moodboard built from those pairings, 
+with the broader goal of creating a community of people that discover 
+art through shared tastes.
 
 ------------------------------------------------------------------------
 
@@ -118,10 +119,9 @@ discovering art through shared taste.
 
 ## 🎧 Hobbies & Interests
 
--   **Music:** I enjoy producing music in Logic whenever inspiration
-    strikes. Hyperpop and PC Music are major influences.
--   **Cinema:** A lifelong cinema enthusiast --- my ideal day off is
-    three movies back-to-back. Gregg Araki, David Lynch, and Dario
-    Argento are among my favorite directors.
+-   **Music:** Whenever inspiration strikes I try to produce music on Logic.
+    PC Music and film scores are my biggest influences.
+-   **Cinema:** My ideal day off is watching three movies back-to-back. Araki, 
+    Lynch, and Argento are my favorites. 
 
 ------------------------------------------------------------------------
