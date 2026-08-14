@@ -90,8 +90,7 @@ The project demonstrates the complete workflow:
 
 ### 🎬 **Double-Feature** *(Early stages)*
 
-**`JavaScript` `React` `Node.js` `Express` `PostgreSQL` `Figma`
-`Bootstrap`**
+**`JavaScript` `React` `Node.js` `Express` `PostgreSQL` `Figma`**
 
 A passion project connecting music and cinema. Users can pair a
 music album with a movie – hence the name of the web app – that 
