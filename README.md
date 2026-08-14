@@ -111,9 +111,6 @@ art through shared tastes.
     workflows.
 -   **UI/UX Design:** Developing wireframes, user flows, and interface
     layouts with **Figma**.
--   **Data & BI:** Continuing to develop practical skills in **SQL, data
-    modeling, Python analytics, and Tableau** through project-based
-    work.
 
 ------------------------------------------------------------------------
 
