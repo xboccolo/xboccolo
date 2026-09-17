@@ -7,7 +7,7 @@
 
 ## ⚡ About Me
 
-I am a **Broadcast Technician/Engineer & Developer** born in Rome, Italy
+I am a **Broadcast IT Technician & Developer** born in Rome, Italy
 and currently based in Hamburg, Germany. My background combines
 **Mathematics, Computer Science, Multimedia Technologies, and
 Audiovisual Production**, giving me both a technical foundation and a
