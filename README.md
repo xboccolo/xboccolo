@@ -35,6 +35,7 @@ using Python, SQL, PostgreSQL, Tableau, JavaScript, React, and Node.js.
 
 ### **Data Analytics, Engineering & Backend**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,7 +43,6 @@ using Python, SQL, PostgreSQL, Tableau, JavaScript, React, and Node.js.
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### **Frontend & UI**
 
@@ -91,7 +91,7 @@ The project demonstrates the complete workflow:
 
 ### 🎬 **Double-Feature** *(Early stages)*
 
-**`JavaScript` `React` `Node.js` `Express` `PostgreSQL` `Bootstrap` `Figma`**
+**`JavaScript` `React` `Java` `SpringBoot` `PostgreSQL` `Bootstrap` `Figma`**
 
 A passion project connecting music and cinema. Users can pair a
 music album with a movie – hence the name of the web app – that 
@@ -104,8 +104,6 @@ art through shared tastes.
 
 ## 📚 Currently Learning
 
--   **Backend Architecture:** Deepening my Python capabilities with
-    **Django**.
 -   **Infrastructure & Automation:** Learning containerization with
     **Docker** and automated testing/deployment through **CI/CD**
     workflows.
