@@ -64,7 +64,7 @@ Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visua
 
 ## 🚀 Featured Projects
 
-### 📊 [AdTech Analytics](https://github.com/xboccolo/adtech-analytics) --- Completed
+### 📊 [AdTech Analytics](https://github.com/xboccolo/adtech-analytics)
 
 **`Python` `Pandas` `PostgreSQL` `SQL` `Tableau`**
 
@@ -89,7 +89,7 @@ The project demonstrates the complete workflow:
 
 **Synthetic Data → ETL → PostgreSQL → SQL Analysis → Tableau Dashboard**
 
-### 🎬 **Double-Feature** *(Early stages)*
+### 🎬 **Double-Feature** *--- Early stages*
 
 **`JavaScript` `React` `Java` `SpringBoot` `PostgreSQL` `Bootstrap` `Figma`**
 
