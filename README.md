@@ -15,7 +15,7 @@ creative approach to problem-solving.
 
 I am currently developing my skills across **data analytics, data
 engineering, and full-stack web development**, with hands-on projects
-using Python, SQL, PostgreSQL, Tableau, JavaScript, React, and Node.js.
+using Python, SQL, PostgreSQL, Tableau, JavaScript, React, and Java.
 
 -   🎓 **Education:** B.Sc. in Media and Technology \| M.A. in Film and
     Visual Arts
