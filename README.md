@@ -22,8 +22,8 @@ using Python, SQL, PostgreSQL, Tableau, JavaScript, React, and Java.
 -   📊 **Recent Project:** Completed an end-to-end **AdTech Analytics**
     project covering synthetic data generation, Python ETL, PostgreSQL
     data modeling, SQL analysis, and an interactive Tableau dashboard.
--   💻 **Currently Building:** A full-stack web application called **Double-Feature** with
-    JavaScript, React, Node.js, Express.js, and PostgreSQL. 
+-   💻 **Currently Building:** A full-stack web application called **Double-Feature** using
+    JavaScript, React, Java, SpringBoot, and PostgreSQL. 
 -   🗣️ **Languages:**
     -   🇮🇹 **Italian** (Native)
     -   🇬🇧 **English** (Fluent / C1-C2)
